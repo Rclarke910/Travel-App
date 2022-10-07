@@ -7,20 +7,22 @@ body {
   display: flex;
   align-items: center;
   height: 55px;
-  font-size: 13px;
-  
-  width: 600px;
-  background-color:#F55A5A;
+  font-size: 20px;
+  padding: 1em 0;
+  width: 100%;
+  background-color:#fe7070;
   padding: 15px 20px;
   color: aliceblue;
 }
 .logo {
   height: 35px;
+  margin-right: 10px;
+  
    
 }
 .card-pics {
   height: 230px;
-  width: 150px;
+  width: 175px;
   top: 100px;
   left: 40px;
   border-radius: 5px;
@@ -54,4 +56,3 @@ left: 184px;
 }
 
 
-  
